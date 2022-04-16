@@ -13,4 +13,4 @@ To run, make sure you have the necessary libraries:
   base64
   glob
 
-Also, make sure you obtain API keys from Acustic ID and change them in the script. The second one I'm not exactly sure what that is or why there is a second one or where to get one, 
+Also, make sure you obtain API keys from Acustic ID and change them in the script. The second one I'm not exactly sure what that is or why there is a second one or where to get one, apparently the string can be anything. If you know its use, you can send the info so I can update this Readme.md file. 
